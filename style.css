@@ -29,7 +29,7 @@ html, body {
 
 .left {
   grid-area: left;
-  aspect-ratio: 1/1;
+  aspect-ratio: 2/2;
 }
 
 .right {
@@ -43,8 +43,8 @@ html, body {
 
 .image img {
   padding-top: 100px;
-  max-width: 80%;
-  max-height: 80%;
+  max-width: 55%;
+  max-height: 70%;
 }
 
 .head {
